@@ -1,0 +1,3 @@
+C:/Users/Coron/OneDrive/Escritorio/Ultimo_examen/cmake-build-debug/CMakeFiles/Ultimo_examen.dir
+C:/Users/Coron/OneDrive/Escritorio/Ultimo_examen/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Coron/OneDrive/Escritorio/Ultimo_examen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
